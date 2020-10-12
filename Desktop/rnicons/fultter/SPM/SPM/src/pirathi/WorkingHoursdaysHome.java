@@ -6,7 +6,8 @@
 package pirathi;
 
 import javax.swing.JFrame;
-import rakib.NewestHome;
+import rakib.NewestHome
+        //
 
 /**
  *
